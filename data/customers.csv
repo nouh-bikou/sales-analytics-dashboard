@@ -1,0 +1,51 @@
+customer_id,name,region,segment
+1,Altblick Druck GmbH,Neuss,Kleinkunde
+2,Alttal Praxis,Mönchengladbach,Kleinkunde
+3,Brücken Praxis,Köln,Kleinkunde
+4,Brücken Service GmbH,Köln,Mittelstand
+5,Brücken Technik GmbH,Mönchengladbach,Mittelstand
+6,Brückenblick Kanzlei,Mönchengladbach,Kleinkunde
+7,Brückental Praxis,Düsseldorf,Mittelstand
+8,Eichenblick Steuerberatung,Neuss,Großkunde
+9,Eichenwerk Logistik GmbH,Neuss,Kleinkunde
+10,Feld Logistik GmbH,Köln,Mittelstand
+11,Feldfeld Consulting,Düsseldorf,Kleinkunde
+12,Feldtal Handel GmbH,Krefeld,Großkunde
+13,Feldwerk Druck GmbH,Mönchengladbach,Kleinkunde
+14,Grün Druck GmbH,Köln,Kleinkunde
+15,Grün Service GmbH,Mönchengladbach,Kleinkunde
+16,Grünfeld Immobilien KG,Mönchengladbach,Großkunde
+17,Grünwerk Consulting,Krefeld,Kleinkunde
+18,Hafen Kanzlei,Mönchengladbach,Kleinkunde
+19,Hafental Immobilien KG,Essen,Kleinkunde
+20,Hafental Service GmbH,Neuss,Mittelstand
+21,Kanal Agentur,Essen,Mittelstand
+22,Kanalfeld Kanzlei,Krefeld,Kleinkunde
+23,Lindenblick Kanzlei,Krefeld,Kleinkunde
+24,Markttal Bau GmbH,Köln,Großkunde
+25,Markttal Immobilien KG,Düsseldorf,Großkunde
+26,Markttal Kanzlei,Köln,Mittelstand
+27,Nord Bau GmbH,Düsseldorf,Mittelstand
+28,Nordfeld Druck GmbH,Essen,Großkunde
+29,Park Logistik GmbH,Düsseldorf,Großkunde
+30,Rheinfeld Agentur,Neuss,Kleinkunde
+31,Rheintal Service GmbH,Köln,Großkunde
+32,Ring Druck GmbH,Krefeld,Mittelstand
+33,Ringfeld Steuerberatung,Köln,Mittelstand
+34,Ringtal Handel GmbH,Mönchengladbach,Kleinkunde
+35,Sonnental Consulting,Köln,Mittelstand
+36,Sonnenwerk Consulting,Krefeld,Kleinkunde
+37,Sonnenwerk Steuerberatung,Düsseldorf,Großkunde
+38,Stadtblick Technik GmbH,Neuss,Kleinkunde
+39,Stadtwerk Service GmbH,Krefeld,Mittelstand
+40,Stadtwerk Steuerberatung,Düsseldorf,Kleinkunde
+41,Turm Consulting,Essen,Kleinkunde
+42,Turm Praxis,Krefeld,Großkunde
+43,Turmtal Kanzlei,Düsseldorf,Kleinkunde
+44,Ufer Kanzlei,Köln,Mittelstand
+45,Ufer Technik GmbH,Köln,Mittelstand
+46,Uferblick Praxis,Neuss,Mittelstand
+47,Ufertal Kanzlei,Düsseldorf,Mittelstand
+48,Ufertal Service GmbH,Mönchengladbach,Mittelstand
+49,Uferwerk Consulting,Essen,Großkunde
+50,Waldwerk Immobilien KG,Düsseldorf,Kleinkunde

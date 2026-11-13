@@ -1,0 +1,19 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Bürostuhl Comfort,Möbel,249.0,150.0
+2,Schreibtisch höhenverstellbar,Möbel,599.0,390.0
+3,Aktenschrank,Möbel,329.0,210.0
+4,Konferenztisch,Möbel,899.0,610.0
+5,Laptop Business 14,IT-Hardware,1149.0,930.0
+6,Monitor 27 Zoll,IT-Hardware,279.0,205.0
+7,Dockingstation,IT-Hardware,189.0,128.0
+8,Tastatur-Maus-Set,IT-Hardware,59.0,31.0
+9,Headset,IT-Hardware,89.0,52.0
+10,Laserdrucker,IT-Hardware,389.0,295.0
+11,Kopierpapier (5 Pakete),Verbrauchsmaterial,24.9,15.5
+12,Toner schwarz,Verbrauchsmaterial,79.0,44.0
+13,Ordner (10 Stück),Verbrauchsmaterial,19.9,9.8
+14,Notizblöcke (20 Stück),Verbrauchsmaterial,14.9,6.2
+15,Kugelschreiber (50 Stück),Verbrauchsmaterial,22.5,9.5
+16,Office-Lizenz (1 Jahr),Software,129.0,96.0
+17,Antivirus-Lizenz (1 Jahr),Software,49.0,27.0
+18,Projektmanagement-Tool (1 Jahr),Software,199.0,120.0
